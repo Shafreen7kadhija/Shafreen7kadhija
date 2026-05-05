@@ -34,25 +34,22 @@ const shahnaz = {
 
 ---
 
-
-
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shafreen7kadhija&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shafreen7kadhija&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shafreen7kadhija&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Shafreen7kadhija&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafreen7kadhija&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
+-----
 # 🔥 Contribution Activity
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shafreen7kadhija&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafreen7kadhija&theme=tokyo-night&bg_color=0D1117&color=7C5CFF&line=7C5CFF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -148,7 +145,16 @@ const currentFocus = {
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com">
+💬 I love connecting with people — feel free to reach out!
+</p>
+
+<p align="center">
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-link">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -159,6 +165,11 @@ const currentFocus = {
 <a href="https://github.com/Shafreen7kadhija">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/your-id">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
