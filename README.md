@@ -56,17 +56,43 @@ const shahnaz = {
 
 # 🏆 Achievements
 
-<p align="center">
+<table align="center">
+<tr>
+<th>🏅 Category</th>
+<th>🚀 Achievement</th>
+<th>📌 Status</th>
+</tr>
 
-| 🏅 Category        | 🚀 Achievement              | 📌 Status   |
-| ------------------ | --------------------------- | ----------- |
-| 💻 Full-Stack      | Built AttendPro project     | ✅ Active    |
-| 📚 Learning        | Learning Advanced Java      | 🔥 Daily    |
-| 🧠 Problem Solving | Practicing coding regularly | 🚀 Growing  |
-| 🌐 Web Development | Built responsive websites   | ✅ Completed |
-| 🎯 Career Goal     | Becoming Software Engineer  | 📈 Ongoing  |
+<tr>
+<td>💻 Full-Stack</td>
+<td>Built AttendPro project</td>
+<td>✅ Active</td>
+</tr>
 
-</p>
+<tr>
+<td>📚 Learning</td>
+<td>Learning Advanced Java</td>
+<td>🔥 Daily</td>
+</tr>
+
+<tr>
+<td>🧠 Problem Solving</td>
+<td>Practicing coding regularly</td>
+<td>🚀 Growing</td>
+</tr>
+
+<tr>
+<td>🌐 Web Development</td>
+<td>Built responsive websites</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>🎯 Career Goal</td>
+<td>Becoming Software Engineer</td>
+<td>📈 Ongoing</td>
+</tr>
+</table>
 
 ---
 
